@@ -1,8 +1,10 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 10 15:20:55 2024
 
-@author: TaiKhangHao
+"""
+
+Name: Khang Ly 
+Date: June 24th, 2024
+Basin Of Attraction Access Data from Jupyter Text File 
+
 """
 
 # Define the filename
